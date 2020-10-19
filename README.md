@@ -8,13 +8,13 @@ The purpose of this analysis was to provide a more in-depth analysis of UFO sigh
 
 ## Results
 
-![txfilter](imageurl)
+![txfilter](https://github.com/myljacobo/UFOs/blob/main/static/images/txfilter.png?raw=true)
 
 A simple search can be performed by entering any of the criteria in the search fields. A new table can be prompted when entering a specific state. I chose to display all the sightings for the state of Texas which can be shown in the image above. 
 
 Let's say someone wanted to search for sightings on a specific day, all they would have to do is to follow the provided input example for the date 1/10/2010 and adjust to desired date. If they would like to take it a step further and find a sighting for a specific city on that date, they would just have to also enter a city name. Since the table for my chosen date of 1/5/2010 had a limited number of entries, I chose a city that was listed and singled it out in the filter search. By pressing enter, this allowed me to view that one specific sighting for that city on that day.
 
-![datefilter](imgurl) ![datecityfilter](imgurl)
+![datefilter](https://github.com/myljacobo/UFOs/blob/main/static/images/datefilter.png?raw=true) ![datecityfilter](https://github.com/myljacobo/UFOs/blob/main/static/images/datecityfilter.png?raw=true)
 
 ## Summary
 
